@@ -1,0 +1,2 @@
+This project implements a secure airdrop distribution system using a combination of Merkle proofs and ECDSA signature verification to ensure that only eligible users can claim tokens, and that each claim is valid, unique, and tamper-resistant.
+The system is built using Solidity and OpenZeppelin libraries, focusing on secure token distribution patterns commonly used in real-world Web3 airdrops.
